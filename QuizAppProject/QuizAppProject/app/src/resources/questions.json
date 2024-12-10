@@ -1,0 +1,344 @@
+[
+    {
+        "type": "MCQ",
+        "difficulty": "Easy",
+        "text": "Which of these is a renewable energy source?",
+        "options": [
+            "Coal",
+            "Solar",
+            "Oil",
+            "Natural Gas"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Easy",
+        "text": "Wind energy is renewable.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Easy",
+        "text": "Which energy source contributes the least to greenhouse gas emissions?",
+        "options": [
+            "Wind",
+            "Coal",
+            "Natural Gas",
+            "Oil"
+        ],
+        "correctOption": 0
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Easy",
+        "text": "Nuclear energy is a renewable energy source.",
+        "correctAnswer": 1
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Easy",
+        "text": "Which energy source is considered clean and green?",
+        "options": [
+            "Natural Gas",
+            "Hydropower",
+            "Coal",
+            "Oil"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Easy",
+        "text": "Renewable energy reduces dependence on fossil fuels.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "What is the main advantage of solar energy?",
+        "options": [
+            "Unlimited supply",
+            "Produces no emissions",
+            "Available in all weather",
+            "Low cost"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Medium",
+        "text": "Solar panels work efficiently in cloudy weather.",
+        "correctAnswer": 1
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "Which of these is a challenge for renewable energy?",
+        "options": [
+            "Inconsistent availability",
+            "High costs",
+            "Geographic limitation",
+            "All of the above"
+        ],
+        "correctOption": 3
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Hard",
+        "text": "What does 'Levelized Cost of Energy (LCOE)' measure?",
+        "options": [
+            "Consumer cost",
+            "Production cost of energy",
+            "Economic cost of nuclear energy",
+            "Total electricity cost"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Hard",
+        "text": "Nuclear fusion is a current renewable energy source.",
+        "correctAnswer": 1
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Hard",
+        "text": "What is the main drawback of geothermal energy?",
+        "options": [
+            "High cost",
+            "Limited regions",
+            "Water requirement",
+            "Air pollution"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Easy",
+        "text": "What is the primary source of biomass energy?",
+        "options": [
+            "Fossil fuels",
+            "Wood and agricultural waste",
+            "Hydropower",
+            "Geothermal heat"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Medium",
+        "text": "Hydropower produces no greenhouse gas emissions during operation.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "What is the main challenge with wind energy?",
+        "options": [
+            "High cost",
+            "Intermittency",
+            "Geographic limitation",
+            "All of the above"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "Which country produces the most solar energy?",
+        "options": [
+            "United States",
+            "Germany",
+            "China",
+            "India"
+        ],
+        "correctOption": 2
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Hard",
+        "text": "Geothermal energy is considered a renewable resource because the heat from the Earth is continually replenished.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "Which of the following is a major challenge for solar energy?",
+        "options": [
+            "Cost of installation",
+            "Intermittency",
+            "Geographic limitation",
+            "All of the above"
+        ],
+        "correctOption": 3
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "What is the main advantage of wind energy?",
+        "options": [
+            "No emissions",
+            "Low cost",
+            "Reliable source",
+            "Unlimited availability"
+        ],
+        "correctOption": 0
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Hard",
+        "text": "Nuclear fusion produces no nuclear waste.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Hard",
+        "text": "What is the main disadvantage of hydrogen fuel cells?",
+        "options": [
+            "High cost of production",
+            "Low efficiency",
+            "Limited infrastructure",
+            "All of the above"
+        ],
+        "correctOption": 3
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Easy",
+        "text": "Which energy source is most commonly used for electricity generation worldwide?",
+        "options": [
+            "Coal",
+            "Solar",
+            "Wind",
+            "Natural Gas"
+        ],
+        "correctOption": 3
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Easy",
+        "text": "Solar energy is the most widely used form of renewable energy worldwide.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "What is the main disadvantage of hydropower?",
+        "options": [
+            "Geographic limitations",
+            "High costs",
+            "Air pollution",
+            "Low efficiency"
+        ],
+        "correctOption": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "Which of these renewable energy sources has the highest efficiency?",
+        "options": [
+            "Solar",
+            "Wind",
+            "Hydropower",
+            "Geothermal"
+        ],
+        "correctOption": 3
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Medium",
+        "text": "Renewable energy sources can help reduce global carbon emissions.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Hard",
+        "text": "Which of the following is a key barrier to the widespread adoption of renewable energy?",
+        "options": [
+            "High cost",
+            "Intermittency",
+            "Limited infrastructure",
+            "All of the above"
+        ],
+        "correctOption": 3
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Hard",
+        "text": "Geothermal energy can only be used in areas with active volcanic regions.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Hard",
+        "text": "What is the most common use of renewable energy in rural areas?",
+        "options": [
+            "Electricity generation",
+            "Water heating",
+            "Heating and cooling",
+            "Transportation"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Medium",
+        "text": "Solar power is not effective in cold climates.",
+        "correctAnswer": 1
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Hard",
+        "text": "What is the efficiency of modern solar panels?",
+        "options": [
+            "10-15%",
+            "20-30%",
+            "40-50%",
+            "50-60%"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "TFQ",
+        "difficulty": "Medium",
+        "text": "Electric vehicles contribute to reducing carbon emissions.",
+        "correctAnswer": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Easy",
+        "text": "Which energy source is used to generate the most electricity in the United States?",
+        "options": [
+            "Natural Gas",
+            "Coal",
+            "Solar",
+            "Wind"
+        ],
+        "correctOption": 0
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Hard",
+        "text": "What is the primary cause of inefficiency in solar energy systems?",
+        "options": [
+            "Geographic limitations",
+            "High cost of panels",
+            "Intermittency of sunlight",
+            "Air pollution"
+        ],
+        "correctOption": 2
+    },
+    {
+        "type": "MCQ",
+        "difficulty": "Medium",
+        "text": "What is the global percentage of energy generated by renewable sources?",
+        "options": [
+            "10%",
+            "20%",
+            "30%",
+            "40%"
+        ],
+        "correctOption": 1
+    }
+]
